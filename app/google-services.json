@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "369829213491",
+    "firebase_url": "https://medic-mini-pro.firebaseio.com",
+    "project_id": "medic-mini-pro",
+    "storage_bucket": "medic-mini-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369829213491:android:c3f1e24acee4173c",
+        "android_client_info": {
+          "package_name": "com.magicpounds.paininventory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369829213491-k1nbb39961oj064ko052ign1igi3oh8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.magicpounds.paininventory",
+            "certificate_hash": "073a35a94e79d7b1f0e4a773d2def10adbde2006"
+          }
+        },
+        {
+          "client_id": "369829213491-0qp3h2qu6pkou3b31dnqp3gvuqtsp448.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4EXO5phu-MwZqCMh1fW5LvdEblXnu7Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369829213491-0qp3h2qu6pkou3b31dnqp3gvuqtsp448.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
